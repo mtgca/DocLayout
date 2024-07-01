@@ -7,6 +7,13 @@ This repository contains the implementation of the paper ["Deep Learning in Time
 To support the research presented in the paper, we constructed the dataset ["SCIBANK: A LARGE DATASET OF ANNOTATED SCIENTIFIC PAPER REGIONS FOR DOCUMENT LAYOUT ANALYSIS"](https://dx.doi.org/10.21227/2yex-bt23). SCIBANK is a comprehensive dataset containing annotated regions of scientific papers, designed to facilitate document layout analysis tasks.
 
 
+To use the dataset mentioned in the paper, please download the "Database" folder from the following Google Drive link:
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1cYjg-1ooDp4Bhx-KFjv_uUUDJ4MDzQ4O?usp=share_link)
+
+This is an auxiliary dataset created from SciBank that is essential for the proper functioning of the methods described in this paper.
+
+
 ## Citation
 
 If you use this code or dataset in your research, please cite the following:
